@@ -1,0 +1,22 @@
+client 
+
+    MakeOrder
+    ConsumeMeal
+
+
+cook
+    PrepareMeal
+    MealDone
+
+waiter  
+    TakeOrder
+
+
+ok so states
+    cookiingCook
+    freeCook
+
+    takingOrder
+    deliveringMeal
+    freeWaiter
+
